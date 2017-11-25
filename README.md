@@ -3,3 +3,9 @@
 # Please wait for the core code, we will update it in the next two months.
 # Keras 1.1.2 + Theano 0.8.2
 # Jianlong Chang (jianlong.chang@nlpr.ia.ac.cn)
+
+
+# Datasets
+# MNIST, CIFAR10, CIFAR100 can be obtained by Keras (https://keras.io/datasets/).
+# STL-10 can be founded at http://cs.stanford.edu/~acoates/stl10/.
+# The descriptions of the ImageNet-10 and ImageNet-Dog datasts are in the "vector-1127/DAC/Datasets description".
