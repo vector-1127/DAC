@@ -9,7 +9,8 @@ Jianlong Chang (jianlong.chang@nlpr.ia.ac.cn)
 
 # Results visualization
 STL-10 results
-![](Results visualization/STL-10.gif)
+
+![](STL-10.gif)
 
 
 
