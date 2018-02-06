@@ -2,11 +2,17 @@
 IEEE International Conference on Computer Vision 2017 (ICCV 2017 Oral: 2.09%)
 
 @InProceedings{Chang_2017_ICCV,
+
 author = {Chang, Jianlong and Wang, Lingfeng and Meng, Gaofeng and Xiang, Shiming and Pan, Chunhong},
+
 title = {Deep Adaptive Image Clustering},
+
 booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+
 month = {Oct},
+
 year = {2017}
+
 }
 
 Please wait for the core code, we will update it in the next two months.
