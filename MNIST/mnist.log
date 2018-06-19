@@ -1,0 +1,163 @@
+mnist.h5
+mnist
+0.107004920354 0.05907077768561379 0.227885714286
+Epoch: 1, batch: 1/70
+Epoch: 1, batch: 11/70
+Epoch: 1, batch: 21/70
+Epoch: 1, batch: 31/70
+Epoch: 1, batch: 41/70
+Epoch: 1, batch: 51/70
+Epoch: 1, batch: 61/70
+0.911157968551 0.9097552642248508 0.956457142857
+Epoch: 2, batch: 1/70
+Epoch: 2, batch: 11/70
+Epoch: 2, batch: 21/70
+Epoch: 2, batch: 31/70
+Epoch: 2, batch: 41/70
+Epoch: 2, batch: 51/70
+Epoch: 2, batch: 61/70
+0.927087244202 0.930989248584723 0.968157142857
+Epoch: 3, batch: 1/70
+Epoch: 3, batch: 11/70
+Epoch: 3, batch: 21/70
+Epoch: 3, batch: 31/70
+Epoch: 3, batch: 41/70
+Epoch: 3, batch: 51/70
+Epoch: 3, batch: 61/70
+0.954761649835 0.9645420738387092 0.9839
+Epoch: 4, batch: 1/70
+Epoch: 4, batch: 11/70
+Epoch: 4, batch: 21/70
+Epoch: 4, batch: 31/70
+Epoch: 4, batch: 41/70
+Epoch: 4, batch: 51/70
+Epoch: 4, batch: 61/70
+0.958935221484 0.9685515249474255 0.985757142857
+Epoch: 5, batch: 1/70
+Epoch: 5, batch: 11/70
+Epoch: 5, batch: 21/70
+Epoch: 5, batch: 31/70
+Epoch: 5, batch: 41/70
+Epoch: 5, batch: 51/70
+Epoch: 5, batch: 61/70
+0.958397350309 0.9684082164481408 0.985657142857
+Epoch: 6, batch: 1/70
+Epoch: 6, batch: 11/70
+Epoch: 6, batch: 21/70
+Epoch: 6, batch: 31/70
+Epoch: 6, batch: 41/70
+Epoch: 6, batch: 51/70
+Epoch: 6, batch: 61/70
+0.961925175914 0.9717161128164312 0.9872
+Epoch: 7, batch: 1/70
+Epoch: 7, batch: 11/70
+Epoch: 7, batch: 21/70
+Epoch: 7, batch: 31/70
+Epoch: 7, batch: 41/70
+Epoch: 7, batch: 51/70
+Epoch: 7, batch: 61/70
+0.963973881667 0.9729636055028149 0.987785714286
+Epoch: 8, batch: 1/70
+Epoch: 8, batch: 11/70
+Epoch: 8, batch: 21/70
+Epoch: 8, batch: 31/70
+Epoch: 8, batch: 41/70
+Epoch: 8, batch: 51/70
+Epoch: 8, batch: 61/70
+0.95715807719 0.9670600586991301 0.985028571429
+Epoch: 9, batch: 1/70
+Epoch: 9, batch: 11/70
+Epoch: 9, batch: 21/70
+Epoch: 9, batch: 31/70
+Epoch: 9, batch: 41/70
+Epoch: 9, batch: 51/70
+Epoch: 9, batch: 61/70
+0.959102314159 0.9690786316204532 0.986
+Epoch: 10, batch: 1/70
+Epoch: 10, batch: 11/70
+Epoch: 10, batch: 21/70
+Epoch: 10, batch: 31/70
+Epoch: 10, batch: 41/70
+Epoch: 10, batch: 51/70
+Epoch: 10, batch: 61/70
+0.961687157639 0.9716010836105626 0.987128571429
+Epoch: 11, batch: 1/70
+Epoch: 11, batch: 11/70
+Epoch: 11, batch: 21/70
+Epoch: 11, batch: 31/70
+Epoch: 11, batch: 41/70
+Epoch: 11, batch: 51/70
+Epoch: 11, batch: 61/70
+0.957349931691 0.9674848500278289 0.985257142857
+Epoch: 12, batch: 1/70
+Epoch: 12, batch: 11/70
+Epoch: 12, batch: 21/70
+Epoch: 12, batch: 31/70
+Epoch: 12, batch: 41/70
+Epoch: 12, batch: 51/70
+Epoch: 12, batch: 61/70
+0.959492189595 0.9695359055038243 0.986214285714
+Epoch: 13, batch: 1/70
+Epoch: 13, batch: 11/70
+Epoch: 13, batch: 21/70
+Epoch: 13, batch: 31/70
+Epoch: 13, batch: 41/70
+Epoch: 13, batch: 51/70
+Epoch: 13, batch: 61/70
+0.960919881693 0.9710538952960728 0.986842857143
+Epoch: 14, batch: 1/70
+Epoch: 14, batch: 11/70
+Epoch: 14, batch: 21/70
+Epoch: 14, batch: 31/70
+Epoch: 14, batch: 41/70
+Epoch: 14, batch: 51/70
+Epoch: 14, batch: 61/70
+0.959090404416 0.9693612554280105 0.986128571429
+Epoch: 15, batch: 1/70
+Epoch: 15, batch: 11/70
+Epoch: 15, batch: 21/70
+Epoch: 15, batch: 31/70
+Epoch: 15, batch: 41/70
+Epoch: 15, batch: 51/70
+Epoch: 15, batch: 61/70
+0.95944299399 0.9694851591383972 0.986228571429
+Epoch: 16, batch: 1/70
+Epoch: 16, batch: 11/70
+Epoch: 16, batch: 21/70
+Epoch: 16, batch: 31/70
+Epoch: 16, batch: 41/70
+Epoch: 16, batch: 51/70
+Epoch: 16, batch: 61/70
+0.958905426197 0.9695306491113732 0.986157142857
+Epoch: 17, batch: 1/70
+Epoch: 17, batch: 11/70
+Epoch: 17, batch: 21/70
+Epoch: 17, batch: 31/70
+Epoch: 17, batch: 41/70
+Epoch: 17, batch: 51/70
+Epoch: 17, batch: 61/70
+0.955870853311 0.9661742350906458 0.9847
+Epoch: 18, batch: 1/70
+Epoch: 18, batch: 11/70
+Epoch: 18, batch: 21/70
+Epoch: 18, batch: 31/70
+Epoch: 18, batch: 41/70
+Epoch: 18, batch: 51/70
+Epoch: 18, batch: 61/70
+0.952208161598 0.9631214986924429 0.983314285714
+Epoch: 19, batch: 1/70
+Epoch: 19, batch: 11/70
+Epoch: 19, batch: 21/70
+Epoch: 19, batch: 31/70
+Epoch: 19, batch: 41/70
+Epoch: 19, batch: 51/70
+Epoch: 19, batch: 61/70
+0.951971340911 0.9625968477097042 0.9831
+Epoch: 20, batch: 1/70
+Epoch: 20, batch: 11/70
+Epoch: 20, batch: 21/70
+Epoch: 20, batch: 31/70
+Epoch: 20, batch: 41/70
+Epoch: 20, batch: 51/70
+Epoch: 20, batch: 61/70
+0.94699695127 0.9577518874645891 0.980957142857
