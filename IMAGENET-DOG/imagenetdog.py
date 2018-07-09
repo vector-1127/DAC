@@ -56,19 +56,12 @@ datagen = ImageDataGenerator(
 )
 
 class Adaptive(Layer):
-    def __init__(self, norm=2.0, learnable = False, **kwargs):
-        self.norm = norm
-        self.learnable = learnable
+    def __init__(self, **kwargs):
         super(Adaptive, self).__init__(**kwargs)
         
     def build(self, input_shape):
         self.nb_sample = input_shape[0]
         self.nb_dim = input_shape[1]
-        self.learn_norm = K.variable(self.norm)
-        if self.learnable == True:
-            self.trainable_weights = [self.learn_norm]
-        else:
-            self.non_trainable_weights = [self.learn_norm]
         
     def call(self, x, mask = None):
         y = self.transfer(x)
@@ -78,7 +71,7 @@ class Adaptive(Layer):
         return (input_shape[0],input_shape[1])
         
     def transfer(self, x):
-        y = K.pow(K.sum(x**self.learn_norm, axis = 1), 1./self.learn_norm)
+        y = K.pow(K.sum(x**2, axis = 1), 0.5)
         y = K.expand_dims(y, dim = 1)
         y = K.repeat_elements(y, self.nb_dim, axis = 1)
         return x/y
