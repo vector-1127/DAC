@@ -24,7 +24,7 @@ STL-10 can be founded at http://cs.stanford.edu/~acoates/stl10/.
 The descriptions of the ImageNet-10 and ImageNet-Dog datasts are in the "vector-1127/DAC/Datasets description".
 
 # Bibtex
-'''
+```
 @InProceedings{Chang_2017_ICCV,
 author = {Chang, Jianlong and Wang, Lingfeng and Meng, Gaofeng and Xiang, Shiming and Pan, Chunhong},
 title = {Deep Adaptive Image Clustering},
@@ -32,4 +32,4 @@ booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
 month = {Oct},
 year = {2017}
 }
-'''
+```
